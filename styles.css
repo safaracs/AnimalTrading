@@ -1,0 +1,40 @@
+/* add your CSS here */
+	.whole {
+		font-family: verdana, Arial, Helvetica;
+		 font-size: 14px;
+	}
+	h3 {
+	    font-size: 1.5em;
+	    font-weight: bolder;
+	    text-transform: uppercase;
+	}
+	ul {
+		padding-left: 0;
+		list-style: none;
+	}
+	.image {
+		border-radius: 6px;
+		margin-bottom: 3px;
+	}	
+	.fact { 
+		font-style: italic;
+	}
+	.outer-border {
+		display: block;
+		border: 1px solid gray;
+		max-width: 300px;
+		background-color: #fff5ea;
+		margin-top: 5px;
+		padding: 10px 10px;
+		box-shadow: 5px 5px 4px rgb(229,229,229);
+		margin: 5px;
+		border-radius: 6px;
+	}
+	.inner-border {
+		display: block;
+		border: 1px solid gray;
+		max-width: 300px;
+		margin-top: 10px;
+		padding: 5px;
+		border-radius: 6px;
+	}
